@@ -5,7 +5,7 @@ A graphical calculator application built in C++ that calculates linear regressio
 
 ## How To Install
 
-If you don't care about the source codes,
+If you don't care about the source code,
 
 1. find "Releases" at the repository (normally at the right) and click it.
 
