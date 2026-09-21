@@ -82,7 +82,7 @@ cmake --version
    ```
 4. Configure and build the project using CMake:
    ```bash
-   cmake -B build
+   cmake -S . -B build
    cmake --build build
    ```
 5. To run the program, execute the generated application from the terminal:
