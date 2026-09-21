@@ -2,6 +2,25 @@
 
 A graphical calculator application built in C++ that calculates linear regression lines (y = m*x + b) using the method of least squares and plots data points on a scatter graph.
 
+
+## How To Install
+
+If you don't care about the source codes,
+
+1. find "Releases" at the repository (normally at the right) and click it.
+
+2. Find "Assets", click "calculator-release.zip"
+
+3. Once your file finish downloading, find the location you saved it and extract it to your desired location
+
+4. Go into the folder you extracted, double click "calculator.exe" to open it
+
+5. It might trigger your Windows Protector; click "Run Anyways" because there is no virus (trust me bro)
+
+6. Then you would open my program successfully
+
+But if you want to see the source code, and run it in the hard way, then clone my repository, and follow these steps:
+
 ## Prerequisites
 
 To build and run this project locally, you will need to download and include the following dependencies in your project directory:
