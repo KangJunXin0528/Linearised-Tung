@@ -7,7 +7,7 @@ A graphical calculator application built in C++ that calculates linear regressio
 
 If you don't care about the source code,
 
-1. find "Releases" at the repository (normally at the right) and click it.
+1. find "Releases" at the repository (normally at the right) and click it. (Here is the link if you can't find it: https://github.com/KangJunXin0528/Linearised-Tung/releases)
 
 2. Find "Assets", click "calculator-release.zip"
 
